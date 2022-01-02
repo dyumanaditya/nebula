@@ -1,0 +1,16 @@
+#ifndef COLORS_H
+#define COLORS_H
+
+#define BACKGROUND_COLOR 1
+#define COLUMN_TITLE_COLOR 2
+#define HIGHLIGHT_COLOR 3
+#define PATH_COLOR 4
+#define SORT_MODE_COLOR 5
+#define OPTIONS_NUMBER_COLOR 6
+#define OPTIONS_COLOR 7
+#define OPTIONS_WIN_COLOR 8
+#define OPTIONS_TITLE_COLOR 9
+#define ERROR_COLOR 10
+#define FORM_COLOR 11
+
+#endif

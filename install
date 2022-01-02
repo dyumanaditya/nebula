@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo Installing to /opt/nebula ...
+sudo cp -r include/ /opt/nebula/include/
+sudo cp -r src/ /opt/nebula/src/
+sudo cp Makefile /opt/nebula/
+
+echo Compiling source code ...
+make all -s
+echo Type "nebula" in any terminal
