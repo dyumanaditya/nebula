@@ -1,4 +1,5 @@
 # Nebula
-An advanced Linux terminal file manager for everyday use
+An advanced ncurses Linux terminal file manager for everyday use, inspired by Midnight Commander
+
 <img src="media/nebula.png"/>
 
